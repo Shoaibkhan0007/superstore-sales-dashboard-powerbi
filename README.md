@@ -8,12 +8,6 @@ The goal of the project is to transform raw sales data into actionable business 
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](assets/dashboard-preview.png)
-
----
-
 ## Business Objectives
 
 - Analyze overall sales, quantity, and profit performance.
